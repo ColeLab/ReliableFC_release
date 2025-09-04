@@ -1,0 +1,8 @@
+measures	filename	colname
+NIH Pic Seq	psm01.txt	nih_picseq_computed
+NIH Card Sort	dccs01.txt	nih_dccs_computed
+NIH Flanker	flanker01.txt	nih_flanker_computed
+NIH Pattern Comp	pcps01.txt	nih_patterncomp_raw
+NIH List Sort	lswmt01.txt	tbx_ls
+Rey Aud Learning	ravlt01.txt	pea_ravlt_sd_tc
+Trails B	trail_ca01.txt	tmtb_raw

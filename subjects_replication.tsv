@@ -1,0 +1,237 @@
+subjects	group	age	sex	dataset
+HCA6018857	YA	36.3333	F	replication
+HCA6047359		53.3333	M	replication
+HCA6053758	YA	36.4167	F	replication
+HCA6058970	OA	78.4167	F	replication
+HCA6086369	OA	75.8333	M	replication
+HCA6091766	OA	72.3333	M	replication
+HCA6098073	OA	80.5833	F	replication
+HCA6108151		53.9167	F	replication
+HCA6117051		57.4167	F	replication
+HCA6125050	OA	73.0833	F	replication
+HCA6139970	YA	39.25	F	replication
+HCA6144862		47.8333	F	replication
+HCA6165971		61.3333	F	replication
+HCA6176471	OA	81.8333	M	replication
+HCA6197580		46.1667	F	replication
+HCA6214958	OA	73.5	F	replication
+HCA6249977	OA	66.9167	M	replication
+HCA6276475		50.3333	M	replication
+HCA6290368		60.5	M	replication
+HCA6295782	YA	44.1667	M	replication
+HCA6317665	OA	73.1667	M	replication
+HCA6320048		49.3333	F	replication
+HCA6337974	YA	37.1667	F	replication
+HCA6374576		55.4167	M	replication
+HCA6388082		100.0	F	replication
+HCA6421963		59.3333	F	replication
+HCA6461066	OA	65.8333	M	replication
+HCA6465175	YA	40.75	F	replication
+HCA6471675	YA	37.5833	F	replication
+HCA6521664		87.6667	F	replication
+HCA6539885		51.5833	F	replication
+HCA6559487		58.0	F	replication
+HCA6566888		55.4167	F	replication
+HCA6576487	OA	65.8333	F	replication
+HCA6583484	OA	78.0833	F	replication
+HCA6597293		62.1667	M	replication
+HCA6618679		52.3333	F	replication
+HCA6631671	OA	68.1667	F	replication
+HCA6635679		86.0833	M	replication
+HCA6645985		64.75	F	replication
+HCA6653277	OA	69.75	F	replication
+HCA6660880	YA	41.5	F	replication
+HCA6670479	YA	39.75	M	replication
+HCA6671380	OA	78.3333	M	replication
+HCA6678495		56.5833	M	replication
+HCA6685492		55.75	F	replication
+HCA6700664		56.0	M	replication
+HCA6732374		57.4167	M	replication
+HCA6742377		48.25	F	replication
+HCA6749088		47.9167	F	replication
+HCA6756287		56.9167	F	replication
+HCA6763486	OA	73.3333	F	replication
+HCA6773691	YA	38.25	F	replication
+HCA6788199		52.1667	M	replication
+HCA6848090	OA	74.0833	F	replication
+HCA6875801		62.5833	M	replication
+HCA6896607	OA	65.75	M	replication
+HCA6909286	YA	38.0	F	replication
+HCA6937998		63.4167	F	replication
+HCA6947294	YA	38.1667	M	replication
+HCA6954998		58.6667	F	replication
+HCA6987206	YA	40.3333	M	replication
+HCA7000843	OA	66.8333	F	replication
+HCA7017759		55.5	F	replication
+HCA7025253		51.5	M	replication
+HCA7030549		82.9167	F	replication
+HCA7050151		58.8333	F	replication
+HCA7066873		47.1667	F	replication
+HCA7079074		47.0	M	replication
+HCA7098684	OA	74.1667	F	replication
+HCA7119969	OA	80.9167	F	replication
+HCA7131454		51.0833	F	replication
+HCA7137567	YA	45.9167	M	replication
+HCA7164267		59.1667	M	replication
+HCA7182067		53.75	F	replication
+HCA7186883	YA	42.5	F	replication
+HCA7216462		63.3333	M	replication
+HCA7226566	YA	37.5	F	replication
+HCA7245267		85.75	M	replication
+HCA7251969	YA	40.8333	F	replication
+HCA7257173	OA	66.9167	M	replication
+HCA7260869		47.6667	M	replication
+HCA7264574	OA	68.1667	M	replication
+HCA7271369	OA	69.0833	F	replication
+HCA7301251		64.6667	F	replication
+HCA7317367		52.25	M	replication
+HCA7348277		58.3333	M	replication
+HCA7385889		54.8333	M	replication
+HCA7415973	OA	67.0833	M	replication
+HCA7440164	YA	36.0	M	replication
+HCA7453375	YA	44.0833	F	replication
+HCA7467588		49.9167	M	replication
+HCA7483182	YA	44.3333	M	replication
+HCA7492486	YA	44.25	F	replication
+HCA7495593	YA	40.5833	F	replication
+HCA7502059		46.5833	M	replication
+HCA7530670	YA	38.5	M	replication
+HCA7543578		53.6667	F	replication
+HCA7552478	YA	40.5	M	replication
+HCA7577595		61.0833	F	replication
+HCA7592086		52.9167	F	replication
+HCA7620469		84.9167	M	replication
+HCA7627786	YA	45.5833	F	replication
+HCA7651278	YA	41.5833	F	replication
+HCA7670686		61.6667	F	replication
+HCA7670989	YA	41.5833	F	replication
+HCA7690995		85.1667	F	replication
+HCA7703372	OA	65.75	M	replication
+HCA7715581	YA	36.25	F	replication
+HCA7716684	YA	44.5	F	replication
+HCA7745994	YA	37.0833	F	replication
+HCA7773393		49.4167	M	replication
+HCA7799311		61.5833	F	replication
+HCA7807384		46.1667	F	replication
+HCA7840988		55.5	M	replication
+HCA7879713		51.3333	M	replication
+HCA7885102	YA	38.0	M	replication
+HCA7898818	YA	40.75	F	replication
+HCA7910680	YA	38.6667	F	replication
+HCA7919698	OA	68.5	F	replication
+HCA7950086		55.5833	M	replication
+HCA7962902		47.75	F	replication
+HCA7974909	OA	65.75	F	replication
+HCA8000040	OA	70.8333	M	replication
+HCA8033560		84.3333	F	replication
+HCA8040759		52.0	F	replication
+HCA8066676	YA	37.6667	M	replication
+HCA8089082		50.9167	F	replication
+HCA8103858		53.5	F	replication
+HCA8127165		57.3333	M	replication
+HCA8133362	OA	78.5833	M	replication
+HCA8141563		49.1667	F	replication
+HCA8169484	YA	43.3333	F	replication
+HCA8191679		61.6667	F	replication
+HCA8232061	YA	42.75	F	replication
+HCA8244977		59.3333	F	replication
+HCA8251368	YA	42.4167	F	replication
+HCA8253978	OA	73.1667	M	replication
+HCA8271980		49.8333	M	replication
+HCA8301963	OA	74.9167	M	replication
+HCA8307773		52.3333	F	replication
+HCA8335778	YA	38.5	M	replication
+HCA8345882		85.4167	F	replication
+HCA8358285	YA	39.4167	F	replication
+HCA8361577	YA	37.25	F	replication
+HCA8376287	OA	75.75	F	replication
+HCA8405975	OA	69.25	M	replication
+HCA8434376		61.5833	F	replication
+HCA8435277	OA	77.9167	M	replication
+HCA8449490	YA	42.8333	M	replication
+HCA8456790		52.9167	F	replication
+HCA8465387		60.5833	M	replication
+HCA8480282		62.0833	M	replication
+HCA8488197	OA	67.25	M	replication
+HCA8515578	OA	80.1667	M	replication
+HCA8529892	OA	65.3333	M	replication
+HCA8536081		56.3333	M	replication
+HCA8578704	YA	43.0833	F	replication
+HCA8580690		48.4167	F	replication
+HCA8596099		56.5833	M	replication
+HCA8597405	YA	45.9167	F	replication
+HCA8605680		84.5	M	replication
+HCA8623581		64.8333	M	replication
+HCA8672190		54.4167	M	replication
+HCA8697005		62.4167	F	replication
+HCA8702577		53.4167	F	replication
+HCA8711477		51.75	M	replication
+HCA8720983	OA	78.75	F	replication
+HCA8738699		53.75	M	replication
+HCA8748298		53.9167	M	replication
+HCA8793607	YA	36.25	F	replication
+HCA8795813		51.6667	M	replication
+HCA8800274	YA	41.5833	F	replication
+HCA8858710		87.6667	F	replication
+HCA8866406		58.6667	F	replication
+HCA8869513	OA	69.0	M	replication
+HCA8904185	OA	70.4167	F	replication
+HCA8927501	YA	37.5	F	replication
+HCA8947709	OA	68.0833	M	replication
+HCA8980404		57.25	M	replication
+HCA9022762	OA	65.6667	M	replication
+HCA9044570		47.25	F	replication
+HCA9085685		89.8333	F	replication
+HCA9088388		46.5833	M	replication
+HCA9090779	OA	78.4167	F	replication
+HCA9124366		55.8333	F	replication
+HCA9157179	YA	40.0	M	replication
+HCA9166786		46.5	M	replication
+HCA9170474	OA	76.5833	F	replication
+HCA9179997	YA	41.0	M	replication
+HCA9198092		60.0	F	replication
+HCA9231670	OA	65.0833	M	replication
+HCA9239484		64.75	M	replication
+HCA9266285		87.75	F	replication
+HCA9300057		85.0833	F	replication
+HCA9319280	YA	37.4167	F	replication
+HCA9323978		62.3333	F	replication
+HCA9329687		58.5	M	replication
+HCA9341879	OA	81.5	M	replication
+HCA9372789		58.25	F	replication
+HCA9384089	YA	43.0833	F	replication
+HCA9389605	OA	68.3333	F	replication
+HCA9409786		62.3333	F	replication
+HCA9443079		64.8333	F	replication
+HCA9460079		62.4167	M	replication
+HCA9469906		48.75	M	replication
+HCA9481693	YA	39.0	F	replication
+HCA9496707		56.25	M	replication
+HCA9503576	OA	68.25	F	replication
+HCA9515684		49.8333	F	replication
+HCA9539800	OA	69.6667	F	replication
+HCA9551991		64.1667	M	replication
+HCA9559806		60.8333	M	replication
+HCA9589310	OA	70.6667	M	replication
+HCA9614484		52.25	M	replication
+HCA9626693	OA	71.0	M	replication
+HCA9640889	OA	78.5	M	replication
+HCA9650993		59.0833	F	replication
+HCA9679715		55.9167	M	replication
+HCA9688312		60.9167	F	replication
+HCA9707289		55.25	M	replication
+HCA9715187	YA	45.75	M	replication
+HCA9717999	OA	71.8333	F	replication
+HCA9739808	YA	42.0833	F	replication
+HCA9750290	YA	36.5	F	replication
+HCA9761497		51.75	F	replication
+HCA9815595		61.8333	M	replication
+HCA9868920	OA	69.0833	M	replication
+HCA9880405	OA	66.0	F	replication
+HCA9894315		86.1667	M	replication
+HCA9908906	OA	67.8333	F	replication
+HCA9912492	OA	68.75	F	replication
+HCA9922091	OA	76.0	F	replication
+HCA9938309		100.0	F	replication
+HCA9947411	YA	38.25	M	replication
+HCA9992517		54.0	F	replication
